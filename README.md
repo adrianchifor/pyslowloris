@@ -6,7 +6,7 @@ We essentially open lots of sockets and make lots of HTTP requests while sending
 
 ##Run##
 
-Try it yourself on web servers running Apache 1.x/2.x (hopefully unpatched?) and dhttpd.
+Try it yourself (at your own risk) on web servers running Apache 1.x/2.x (hopefully unpatched?) and dhttpd.
 
 * `git clone https://github.com/adrianchifor/pyslowloris.git`
 * `cd pyslowloris`
